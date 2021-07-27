@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=labietelabiete&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labietelabiete&langs_count=6)
 
  
 
