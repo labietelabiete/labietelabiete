@@ -1,13 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hugo Gomez </h1>
+
+
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Ladies, a community for women and non-binary ReactJS developers
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=labietelabiete&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labietelabiete&langs_count=6&layout=compact)
+
+<h3 align="left">Languages & Tools :ocean:</h3>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 
 
 
  
 
-### Technologies & Lenguages ⚡
+### Technologies & Lenguages 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=005eff)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=white&color=005eff)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=005eff)
@@ -41,10 +48,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Inspiration
+
+Examples:
 https://github.com/M0nica
 https://github.com/danilucaci
-https://github.com/Zachpocalypse/github-readme-stats/blob/master/docs/readme_es.md
 https://github.com/Nachomontoya/Nachomontoya/
 https://github.com/SP-XD
+
+Resources:
+https://gist.github.com/rxaviers/7360908
+https://github.com/Zachpocalypse/github-readme-stats/blob/master/docs/readme_es.md
+https://www.vectorlogo.zone/logos/
+
 
 -->
