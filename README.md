@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=labietelabiete&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labietelabiete&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labietelabiete&langs_count=6&layout=compact)
+
+
 
  
 
@@ -22,6 +24,8 @@
 ![](https://img.shields.io/badge/DDBB-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=ffd500)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=ffd500)
 
+
+
 <!--
 **labietelabiete/labietelabiete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +39,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Inspiration
+https://github.com/M0nica
+https://github.com/danilucaci
+https://github.com/Zachpocalypse/github-readme-stats/blob/master/docs/readme_es.md
+https://github.com/Nachomontoya/Nachomontoya/
+https://github.com/SP-XD
+
 -->
