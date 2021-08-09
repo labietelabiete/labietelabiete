@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, It's Hugo Gomez </h1>
 <h3 align="center"> 🖥️ Full-Stack Developer | 🤖 Robotic Engineer | 📷 GoPro Content Creator </h3>
 
+<p align="center">
+ </br>
+  <img src="./labietelabiete_githeader.png">
+</p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/labietelabiete?style=social">
+
 <p align="left">
 I'm a Robotic Engineer in process of Full Stack Developer who is passionate about software technologies and open-source community. Some technologies I enjoy working with include MERN Stack (MongoDB + Express + ReactJS + NodeJS), Jamstack (JavasCript + APIs + Markup).
 
@@ -80,7 +86,7 @@ Here are some ideas to get you started:
 To add
 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/labietelabiete?style=social">
+
 
 Inspiration
 
