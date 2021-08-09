@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Hugo Gomez </h1>
+<h1 align="center">Hi 👋, It's Hugo Gomez </h1>
+<h3 align="center"> 🖥️ Full-Stack Developer | 🤖 Robotic Engineer | 📷 GoPro Content Creator </h3>
 
+<p align="left">
+I'm a Robotic Engineer in process of Full Stack Developer who is passionate about software technologies and open-source community. Some technologies I enjoy working with include MERN Stack (MongoDB + Express + ReactJS + NodeJS), Jamstack (JavasCript + APIs + Markup).
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Ladies, a community for women and non-binary ReactJS developers
+Off the computer you can find me photographing nature, designing music covers or raving in the middle of nowhere.
+</p>
+
+- 🌱 I’m currently studying a **Master in Software Development** at **[Assembler School of Software Engineering](https://www.assemblerschool.com/)**
+
+- 👨‍💻 You can find on **[https://www.labietelabiete.com](https://www.labietelabiete.com)**
+
+- 💬 Ask me about **web development, robotic development, photography, nature, graphic design**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/hugogomtej](https://www.linkedin.com/in/hugogomtej)
+
+- 📫 How to reach me **info@labietelabiete.com**
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=labietelabiete&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labietelabiete&langs_count=6&layout=compact)
@@ -46,6 +61,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+To add
+
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/labietelabiete?style=social">
 
 Inspiration
 
