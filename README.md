@@ -21,7 +21,7 @@ Off the computer you can find me photographing nature, designing music covers or
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hugogomtej](https://www.linkedin.com/in/hugogomtej)
 
-- 📫 How to reach me **info@labietelabiete.com**
+- 📫 How to reach me **hello@labietelabiete.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
