@@ -8,7 +8,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/labietelabiete?style=social">
 
 <p align="left">
-I'm a Robotic Engineer in process of Full Stack Developer who is passionate about software technologies and open-source community. Some technologies I enjoy working with include MERN Stack (MongoDB + Express + ReactJS + NodeJS), Jamstack (JavasCript + APIs + Markup).
+I'm a Robotic Engineer in process of Full Stack Developer who is passionate about software technologies and open-source community. Some technologies I enjoy working with MERN Stack (MongoDB + Express + ReactJS + NodeJS), Jamstack (JavasCript + APIs + Markup).
 
 Off the computer you can find me photographing nature, designing music covers or raving in the middle of nowhere.
 </p>
