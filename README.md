@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Hugo Gomez </h1>
-<h3 align="center"> 🖥️ Full-Stack Developer | 🤖 Robotic Engineer | 📷 GoPro Content Creator </h3>
+<h3 align="center"> 🖥️ Frontend / Fullstack Developer | 🤖 Robotic Engineer | 📷 GoPro Content Creator </h3>
 
 <p align="center">
  </br>
